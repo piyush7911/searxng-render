@@ -1,10 +1,8 @@
 use_default_settings: true
 
-server:
-  public_instance: true
-  limiter: false
-  link_token: false
-  method: GET
+search:
+  formats: 
+    - html
+    - json
 
-ui:
-  enabled: true
+
