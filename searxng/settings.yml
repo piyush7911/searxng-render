@@ -1,0 +1,10 @@
+server:
+  public_instance: true
+
+search:
+  formats:
+    - html
+    - json
+
+ui:
+  enabled: true
