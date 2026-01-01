@@ -1,7 +1,6 @@
-use_default_settings: true
 
 search:
-  formats: 
-    - json
-
+  formats:
+    - html
+    - json  # <--- Ensure this line is present
 
